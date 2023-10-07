@@ -1,4 +1,4 @@
-# DevOps_Researh
+# DevOps_Research
 This is using for DevOps
 ls
 ls -al
